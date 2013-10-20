@@ -17,6 +17,8 @@ group :assets do
 	gem 'uglifier', '>=1.3.0'
 end
 
+gem 'protected_attributes'
+
 # Use SCSS for stylesheets
 # gem 'sass-rails', '~> 4.0.0'
 
